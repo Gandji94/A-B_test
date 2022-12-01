@@ -9,7 +9,7 @@ The A/B test is very common in marketing (to see which campaign is more efficien
 
 In my following projects I have performed two A/B test in Python to determine:
 - Which marketing campaign is the most efficient one
-- Did a change in a mobile game app led to a different customer behavior (moving gate from level 30 tp level 40)
+- Did a change in a mobile game app led to a different customer behavior (moving gate from level 30 to level 40)
 
 The data sets where provided on kaggle
 ## Fast Food Marketing Campaign A\B Test
